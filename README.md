@@ -19,7 +19,7 @@ Como hobby toco en una banda, la alineación está conformada por: Danyaell Mart
 </li>
 
 #
-## _Tarea bootcamp_ 🤖
+## _Ejercicio bootcamp_ 🤖
 
 ### Tabla uno.
 
